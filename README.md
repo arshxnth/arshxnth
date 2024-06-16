@@ -1,7 +1,5 @@
-# Hi there, I'm Arshanth Kumar 👋
-
-## Education
-- Studying B Tech Artificial Intelligence & DataScience 
+## Hey 👋, I'm Arshanth Kumar
+I am a First year B Tech AI & DataScience Student @CMS College Of Engineering And Technology, Coimbatore 
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -10,12 +8,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-### Languages Known
-- HTML
-- CSS
-- JavaScript
-- Python
-- C
+![arshxnth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
 
 ## Databases Familiar With
 - MySQL
