@@ -11,8 +11,9 @@ I am a First year B Tech AI & DataScience Student at CMS College Of Engineering 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ## 🌐 Social:
-[![Instagram](https://img.shields.io/badge/Instagram-orange?style=social&logo=instagram)](https://instagram.com/__arsh.xnth/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/arshanth-kumar-777a9a290)
+[![Instagram](https://img.shields.io/badge/Instagram-white?=social&logo=instagram)](https://instagram.com/__arsh.xnth/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?=social&logo=linkedin)](https://www.linkedin.com/in/arshanth-kumar-777a9a290)
+
 
 ## 📊 GitHub Stats:
 ![arshxnth's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshxnth&show_icons=true&theme=dark)
