@@ -1,4 +1,4 @@
-## Hey 👋, I'm Arshanth Kumar
+## Hey 👋, I'm Arshanth
 I am a First year B Tech AI & DataScience Student @CMS College Of Engineering And Technology, Coimbatore 
 
 ## 💻 Tech Stack:
@@ -17,5 +17,6 @@ I am a First year B Tech AI & DataScience Student @CMS College Of Engineering An
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=arshxnth&theme=juicyfresh)](https://github.com/arshxnth/github-profile-trophy)
 
-
-
+## ✍️ Quotes For The Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=arshxnth&color=green)
