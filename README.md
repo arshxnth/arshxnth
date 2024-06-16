@@ -10,6 +10,10 @@ I am a First year B Tech AI & DataScience Student at CMS College Of Engineering 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
+## 🌐 Social:
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-orange?style=social&logo=instagram)](https://instagram.com/yourusername)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+
 ## 📊 GitHub Stats:
 ![arshxnth's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshxnth&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshxnth&layout=compact&theme=dark)
