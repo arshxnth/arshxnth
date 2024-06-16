@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @arshxnth
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning B.Tech AI & DataScience
-- 📫 How to reach me arshanth2005@gmail.com
-- 😄 Pronouns: He/Him
+# Hi there, I'm Arshanth Kumar 👋
 
-<!---
-arshxnth/arshxnth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Education
+- Studying B Tech Artificial Intelligence & DataScience 
+
+## Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## Languages Known
+- Html
+- Css
+- Javascript
+- Python
+- C
+
+## Databases Familiar With
+- MySQL
+
