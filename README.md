@@ -8,7 +8,12 @@ I am a First year B Tech AI & DataScience Student @CMS College Of Engineering An
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-![Arshanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshxnth&show_icons=true)
+![arshxnth's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshxnth&show_icons=true)
+![arshxnth's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=arshxnth&theme=xcode)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshxnth&layout=compact)
+
+
+
 
 
 ## Databases Familiar With
