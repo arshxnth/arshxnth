@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Arshanth
-I am a First year B Tech AI & DataScience Student at CMS College Of Engineering And Technology, Coimbatore. 
+I am a Second year B Tech AI & DataScience Student at CMS College Of Engineering And Technology, Coimbatore. 
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
