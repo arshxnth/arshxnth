@@ -10,8 +10,8 @@ I am a Second year B Tech AI & DataScience Student at CMS College Of Engineering
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?=social&logo=linkedin)](https://www.linkedin.com/in/arshanth-kumar-777a9a290)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arshanth&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arshanth&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=arshxnth&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arshxnth&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshxnth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies:
