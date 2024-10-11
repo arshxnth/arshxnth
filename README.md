@@ -21,4 +21,4 @@ I am a Second year B Tech AI & DataScience Student at CMS College Of Engineering
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arshanth&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arshxnth&icon=0&color=0)](https://visitcount.itsvg.in)
