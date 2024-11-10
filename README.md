@@ -18,7 +18,7 @@ I am a Second year B Tech AI & DataScience Student at CMS College Of Engineering
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=arshxnth&theme=juicyfresh)](https://github.com/arshxnth/github-profile-trophy)
 
-## ✍️ Quotes For The Day
+## 💭 Quotes For The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🔝 Top Contributed Repo
