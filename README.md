@@ -11,18 +11,18 @@ I am a Second year B Tech AI & DataScience Student at CMS College Of Engineering
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshxnth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=arshxnth&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arshxnth&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=arshxnth&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arshxnth&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshxnth&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=arshxnth&theme=juicyfresh)](https://github.com/arshxnth/github-profile-trophy)
 
 ## 💭 Quotes For The Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arshxnth&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=arshxnth&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arshxnth&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arshxnth&icon=8&color=3)](https://visitcount.itsvg.in)
