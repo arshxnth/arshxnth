@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arshxnth" />
-[![](https://visitcount.itsvg.in/api?id=arshxnth&icon=8&color=0&align="right")](https://visitcount.itsvg.in)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arshxnth.arshxnth" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7D815&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+%3CDevelopers%2F%3E;I'm+Arshanth+Kumar;" />
