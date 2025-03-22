@@ -14,14 +14,14 @@
  
  🌱 I’m currently learning **Artificial Intelligence, DataScience, Full Stack Web Development**
 
-💬 Ask me about **JavaScript, Python, React... or anything**
+💬 Feel free to ask me about **JavaScript, Python, React... or anything**
 
 ⚡ Fun fact **The term "Artificial Intelligence" was coined in 1956 — over 60 years ago. That means AI was retro before it was cool.**
 
  </div>
  
 <div align="center"> 
-  <a href="www.arshanthk@gmail.com">
+  <a href="www.arshanth2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/arshanth" target="_blank">
