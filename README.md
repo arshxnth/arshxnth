@@ -4,24 +4,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7D815&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+%3CDevelopers%2F%3E;I'm+Arshanth+Kumar;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently studying in **CMS COLLEGE OF ENGINEERING & TECHNOLOGY**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Artificial Intelligence, DataScience, Full Stack**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **JavaScript, Python, React... or anything**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The term "Artificial Intelligence" was coined in 1956 — over 60 years ago. That means AI was retro before it was cool.**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:arshanthk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
